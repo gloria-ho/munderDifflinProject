@@ -481,6 +481,7 @@ footer li div a:hover {
 	left: 10%;
 	width: 40%;
 	padding: 10px 25px;
+	border-radius: 5px;
 }
 
 
@@ -504,12 +505,15 @@ footer li div a:hover {
 	display: block;
 	padding: 5px 15px;
 	margin: 0;
+	z-index: 999;
+	border-radius: 5px;
 }
 
 #officeVideo {
 	position: absolute;
 	height: 600px;
 	width: 100%;
+	z-index: 1;
 }
 
 #joinButton {
@@ -529,6 +533,7 @@ footer li div a:hover {
 	background: rgba(64, 114, 49,0.7);
 	padding: 10px;
 	color: #f9fff7;
+	border-radius: 5px;
 }
 
 #contact input {
