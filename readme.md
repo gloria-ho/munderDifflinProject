@@ -1,5 +1,17 @@
 # Munder Difflin Paper
 
+## Features
+* Responsive design
+* Eye-catching theme
+* Animated headline, images, and backgrounds
+* Confirmation on contact form submission, form change
+[contact submit alert](/public/img/contact-us-confirm, "Contact form confirmation")
+[contact submit form change](/public/img/contact-us-complete, "Contact form completion")
+* Confirmation on email subscription, button change
+[email subscribe alert](/public/img/subscribe-confirm, "Email subscribe confirmation")
+[email subscribe button change](/public/img/subscribe-complete, "Email subscribe completion")
+
+
 ## Goal:
 
 To create a one page website for a fictional paper company that is exciting for the end user.
