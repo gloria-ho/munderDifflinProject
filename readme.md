@@ -5,10 +5,14 @@
 * Eye-catching theme
 * Animated headline, images, and backgrounds
 * Confirmation on contact form submission, form change
+
 ![contact submit alert](/img/contact-us-confirm.png "Contact form confirmation")
+
 ![contact submit form change](/img/contact-us-complete.png "Contact form completion")
 * Confirmation on email subscription, button change
+
 ![email subscribe alert](/img/subscribe-confirm.png "Email subscribe confirmation")
+
 ![email subscribe button change](/img/subscribe-complete.png "Email subscribe completion")
 
 
