@@ -1,5 +1,15 @@
 # Munder Difflin Paper
 
+## Goal:
+
+To create a one page website for a fictional paper company that is exciting for the end user.
+
+## Built With:
+* JavaScript
+* jQuery
+* HTML5
+* CSS
+
 ## Features
 * Responsive design
 * Eye-catching theme
@@ -14,11 +24,6 @@
 ![email subscribe alert](/img/subscribe-confirm.png "Email subscribe confirmation")
 
 ![email subscribe button change](/img/subscribe-complete.png "Email subscribe completion")
-
-
-## Goal:
-
-To create a one page website for a fictional paper company that is exciting for the end user.
 
 ### Learning Objectives:
 
@@ -43,7 +48,7 @@ Some questions to ask yourself:
 If you take a look at the Timepot website, you will notice that there are several animations happening on scroll. Try to add a animation that triggers when scrolling thru specific sections of your one page website.
 
 
-##Completion Requirements:
+### Completion Requirements:
 
 The completed assignment should:
 
